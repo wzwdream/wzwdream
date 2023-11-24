@@ -1,23 +1,15 @@
 # Hi there, I'm Cyril 👋
 
-I'm a developer who is passionate about computer.
+I'm a developer，This is a place to write code.
 
-- 🔭 I’m currently working on life
-- 🌱 I’m currently learning next.js
-- 👯 I’m looking to collaborate on Open source projects
-- 🤔 I’m looking for help with Career
-- 💞️ Ask me about js、ts、vue...
-- 📫 How to reach me: dream_run@126.com
-- 😄 Pronouns: Tomorrow will definitely be better
+| <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=wzwdream&show_icons=true&include_all_commits=true&hide_border=true" alt="wzwdream's github stats" /></a> | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzwdream&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-## 🛠️ My Skills
+**Languages And Tools:**
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-- js/ts，node
-- vue、react
-- css、html
-
-
-<!---
-wzwdream/wzwdream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Visitor count:**
+<img src="https://profile-counter.glitch.me/wzwdream/count.svg" />
